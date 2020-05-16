@@ -1,0 +1,21 @@
+{
+  "name": "cartesian-map",
+  "version": "1.0.0",
+  "description": "Gives cartesian product of lists obtained by applying callback to array elements",
+  "main": "src/cartesian-map.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmysak/cartesian-map.git"
+  },
+  "keywords": [
+    "cartesian product of arrays",
+    "generating combinations",
+    "simplified backtracking"
+  ],
+  "author": "Danylo Mysak <danmysak@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danmysak/cartesian-map/issues"
+  },
+  "homepage": "https://github.com/danmysak/cartesian-map"
+}
